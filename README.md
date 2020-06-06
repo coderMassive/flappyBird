@@ -1,2 +1,3 @@
 # flappyBird
-Flappy Bird
+Space to Jump
+Have Fun!
