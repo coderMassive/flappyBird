@@ -1,3 +1,4 @@
 # flappyBird
 Space to Jump
-Have Fun!
+Upload image of a bird of your choice and call it bird.png
+## Have Fun!
