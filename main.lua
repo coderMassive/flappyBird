@@ -29,7 +29,7 @@ end
 function spawn_top_pipe()
 	top_pipe = {}
 	top_pipe.x = love.graphics.getWidth()
-	top_pipe.height = love.graphics.getHeight() - bottom_pipe.height - love.math.random(100, 150)
+	top_pipe.height = love.graphics.getHeight() - bottom_pipe.height - 200
 	top_pipe.y = 0
 	top_pipe.width = 50
 	topExtra = {}
